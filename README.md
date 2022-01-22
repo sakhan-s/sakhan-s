@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhan-s&label=Profile%20views&color=0e75b6&style=flat" alt="sakhan-s" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, node.js, mocha & chai**
+- 🌱 I’m currently learning **automation testing with JavaScript and Selenium**
 
 - 📫 How to reach me **siradzhov@ya.ru**
 
