@@ -17,8 +17,4 @@
 <a href="https://instagram.com/https://www.instagram.com/24.ssg" target="blank"><img align="center" src="https://www.svgrepo.com/show/354443/telegram.svg" alt="https://t.me/siradzhov" height="30" width="40" /></a></p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhan-s&center=true" alt="sakhan-s" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sakhan-s&count_private=true&theme=radical" alt="sakhan-s" /></p>
-
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhan-s&layout=compact" alt="sakhan-s" /></p>
