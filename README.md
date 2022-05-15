@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhan-s&label=Profile%20views&color=0e75b6&style=flat" alt="sakhan-s" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sakhan-s&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sakhan-s" /> </p>
 <p align="center"> <img src="https://www.codewars.com/users/Sakhan/badges/large" alt="sakhan-s" /> </p>
 
 
