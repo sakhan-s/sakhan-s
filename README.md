@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhan-s&label=Profile%20views&color=0e75b6&style=flat" alt="sakhan-s" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=80&duration=6000&color=F70707&center=true&vCenter=true&width=1920&height=80&lines=Sakhan+Siradzhov)](https://www.linkedin.com/in/siradzhov/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=90&duration=6000&color=F70707&center=true&vCenter=true&width=1920&height=100&lines=Developer)](https://www.weblancer.net/users/sakhan/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=80&duration=6000&color=F70707&center=true&vCenter=true&width=1920&height=80&lines=Sakhan+Siradzhov)](https://www.linkedin.com/in/siradzhov/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=90&duration=6000&color=F70707&center=true&vCenter=true&width=1920&height=100&lines=Developer)](https://www.weblancer.net/users/sakhan/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
