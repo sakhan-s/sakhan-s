@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://www.codewars.com/users/Sakhan/badges/large" alt="sakhan-s" /> </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=80&duration=5000&color=F70707&center=true&vCenter=true&width=1920&height=80&lines=Sakhan+Siradzhov)](https://www.linkedin.com/in/siradzhov/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=80&duration=5000&color=F70707&center=true&vCenter=true&width=1920&height=180&lines=Sakhan+Siradzhov)](https://www.linkedin.com/in/siradzhov/)
 
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/29753/javascript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/255823/php.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/366496/text-x-python.svg" alt="python" width="40" height="40"/> </a> </p>
 
@@ -23,16 +23,16 @@ erDiagram
     MY_ROADMAP ||--|{ FRONTEND : started
     FRONTEND ||--|{ HTML : then
     HTML ||--|{ CSS : then
-    CSS }|..|{ JAVASCRIPT : started
+    CSS }|..|{ JAVASCRIPT : then
     MY_ROADMAP }|..|{ PROGRAMMING : started
     PROGRAMMING ||--|{ JAVA : then
-    JAVA ||--o{ PYTHON : then
+    JAVA ||--o{ PYTHON : started
     MY_ROADMAP }|..|{ BACKEND : started
     MY_ROADMAP }|..|{ TESTING : started
     TESTING }|..|{ SELENIUM : then
     BACKEND }|..o{ MySQL : then
     MySQL }|..o{ JAVASCRIPT : then
-    MySQL }|..|{ PHP : then
-    PYTHON }|..o{ PHP : then
+    MySQL }|..|{ PHP : started
+    PYTHON }|..o{ PHP : started
 ```
   
