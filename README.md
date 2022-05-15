@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=5002&color=F70707&background=000000&center=true&vCenter=true&width=1920&lines=Sakhan+Siradzhov)](https://www.linkedin.com/in/siradzhov/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=5002&color=F70707&background=00000000&center=true&vCenter=true&width=1920&height=250lines=Sakhan+Siradzhov)](https://www.linkedin.com/in/siradzhov/)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=5002&color=F70707&background=000000&center=true&vCenter=true&width=1920&lines=Developer)](https://www.weblancer.net/users/sakhan/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhan-s&label=Profile%20views&color=0e75b6&style=flat" alt="sakhan-s" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=5002&color=F70707&background=000000&center=true&vCenter=true&width=1920&lines=Currently+learning+PHP+course%2C+also+completed%2Flearning+Node.js%2C+Python%2C+MySQL%2C+Java%2C+JavaScript)](https://www.weblancer.net/users/sakhan/)
-- 🌱 I’m currently learning **PHP course, also completed/learning Node.js, Python, MySQL, Java, JavaScript**
+
 
 - 📫 email: **siradzhov@ya.ru**
 
