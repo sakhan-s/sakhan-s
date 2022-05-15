@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=110&duration=5000&color=F70707&center=true&vCenter=true&width=1920&height=270&lines=Developer)](https://www.weblancer.net/users/sakhan/)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=100&duration=5000&color=F70707&center=true&vCenter=true&width=1920&height=70&lines=Contact+with+me+:)](https://vk.com/sakhann)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=100&duration=5000&color=F70707&center=true&vCenter=true&width=1920&height=270&lines=Contact+with+me+:)](https://vk.com/sakhann)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/siradzhov/" target="blank"><img align="center" src="https://www.svgrepo.com/show/75820/linkedin.svg" alt="https://www.linkedin.com/in/sakhann/" height="30" width="40" /></a>
