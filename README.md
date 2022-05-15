@@ -1,14 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhan-s&label=Profile%20views&color=0e75b6&style=flat" alt="sakhan-s" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=5002&color=F70707&center=true&vCenter=true&width=1920&height=200&lines=Sakhan+Siradzhov)](https://www.linkedin.com/in/siradzhov/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=5002&color=F70707&center=true&vCenter=true&width=1920&height=200&lines=Developer)](https://www.weblancer.net/users/sakhan/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=5002&color=F70707&background=000000&center=true&vCenter=true&width=1920&lines=Currently+learning+PHP+course%2C+also+completed%2Flearning+Node.js%2C+Python%2C+MySQL%2C+Java%2C+JavaScript)](https://www.weblancer.net/users/sakhan/)
-
-
-- 📫 email: **siradzhov@ya.ru**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=80&duration=6000&color=F70707&center=true&vCenter=true&width=1920&height=80&lines=Sakhan+Siradzhov)](https://www.linkedin.com/in/siradzhov/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=90&duration=6000&color=F70707&center=true&vCenter=true&width=1920&height=100&lines=Developer)](https://www.weblancer.net/users/sakhan/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://www.linkedin.com/in/siradzhov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakhann/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/24ssg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/24ssg" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/24.ssg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/24.ssg" height="30" width="40" /></a>
