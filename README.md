@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sakhan</h1>
+<h1 align="center">Hello 👋, I'm Sakhan</h1>
 <h3 align="center">I'm from Belarus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhan-s&label=Profile%20views&color=0e75b6&style=flat" alt="sakhan-s" /> </p>
 
-- 🌱 I’m currently learning **JavaScript course, also completed/learning Node.js, Python, MySQL, Java**
+- 🌱 I’m currently learning **PHP course, also completed/learning Node.js, Python, MySQL, Java, JavaScript**
 
-- 📫 How to reach me **siradzhov@ya.ru**
+- 📫 email: **siradzhov@ya.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
