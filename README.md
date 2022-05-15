@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=5002&color=F70707&center=true&vCenter=true&width=1920&height=200&lines=Sakhan+Siradzhov)](https://www.linkedin.com/in/siradzhov/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=5002&color=F70707&center=true&vCenter=true&width=1920&height=200&lines=Developer)](https://www.weblancer.net/users/sakhan/)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhan-s&label=Profile%20views&color=0e75b6&style=flat" alt="sakhan-s" /> </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=5002&color=F70707&center=true&vCenter=true&width=1920&height=200&lines=Sakhan+Siradzhov)](https://www.linkedin.com/in/siradzhov/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=5002&color=F70707&center=true&vCenter=true&width=1920&height=200&lines=Developer)](https://www.weblancer.net/users/sakhan/)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=5002&color=F70707&background=000000&center=true&vCenter=true&width=1920&lines=Currently+learning+PHP+course%2C+also+completed%2Flearning+Node.js%2C+Python%2C+MySQL%2C+Java%2C+JavaScript)](https://www.weblancer.net/users/sakhan/)
 
 
