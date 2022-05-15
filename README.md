@@ -1,4 +1,4 @@
-(https://readme-typing-svg.herokuapp.com?size=26&duration=5002&color=F70707&background=000000&center=true&vCenter=true&lines=Sakhan+Siradzhov)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=5002&color=F70707&background=000000&center=true&vCenter=true&width=1920&lines=Sakhan+Siradzhov)](https://www.linkedin.com/in/siradzhov/)
 <h3 align="center">I'm from Belarus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhan-s&label=Profile%20views&color=0e75b6&style=flat" alt="sakhan-s" /> </p>
