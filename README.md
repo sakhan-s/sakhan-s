@@ -14,7 +14,25 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/siradzhov/" target="blank"><img align="center" src="https://www.svgrepo.com/show/75820/linkedin.svg" alt="https://www.linkedin.com/in/sakhann/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/24ssg" target="blank"><img align="center" src="https://www.svgrepo.com/show/111203/facebook.svg" alt="https://www.facebook.com/24ssg" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/24.ssg" target="blank"><img align="center" src="https://www.svgrepo.com/show/354443/telegram.svg" alt="https://t.me/siradzhov" height="30" width="40" /></a></p>
-
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhan-s&layout=compact" alt="sakhan-s" /></p>
+<a href="https://instagram.com/https://www.instagram.com/24.ssg" target="blank"><img align="center" src="https://www.svgrepo.com/show/354443/telegram.svg" alt="https://t.me/siradzhov" height="30" width="40" /></a>
+ </p>
+ 
+  
+```mermaid
+erDiagram
+    MY_ROADMAP ||--o{ FRONTEND : started
+    FRONTEND ||--|{ HTML : then
+    HTML ||--|{ CSS : then
+    CSS }|..|{ JAVASCRIPT : started
+    MY_ROADMAP }|..|{ PROGRAMMING : started
+    PROGRAMMING ||--|{ JAVA : then
+    JAVA ||--|{ PYTHON : then
+    MY_ROADMAP }|..|{ BACKEND : started
+    MY_ROADMAP }|..|{ TESTING : started
+    TESTING }|..|{ SELENIUM : then
+    BACKEND }|..|{ MySQL : then
+    MySQL }|..|{ JAVASCRIPT : then
+    MySQL }|..|{ PHP : then
+    PYTHON }|..|{ PHP : then
+```
+  
