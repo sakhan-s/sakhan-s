@@ -20,19 +20,19 @@
   
 ```mermaid
 erDiagram
-    MY_ROADMAP ||--o{ FRONTEND : started
+    MY_ROADMAP ||--|{ FRONTEND : started
     FRONTEND ||--|{ HTML : then
     HTML ||--|{ CSS : then
     CSS }|..|{ JAVASCRIPT : started
     MY_ROADMAP }|..|{ PROGRAMMING : started
     PROGRAMMING ||--|{ JAVA : then
-    JAVA ||--|{ PYTHON : then
+    JAVA ||--o{ PYTHON : then
     MY_ROADMAP }|..|{ BACKEND : started
     MY_ROADMAP }|..|{ TESTING : started
     TESTING }|..|{ SELENIUM : then
-    BACKEND }|..|{ MySQL : then
-    MySQL }|..|{ JAVASCRIPT : then
+    BACKEND }|..o{ MySQL : then
+    MySQL }|..o{ JAVASCRIPT : then
     MySQL }|..|{ PHP : then
-    PYTHON }|..|{ PHP : then
+    PYTHON }|..o{ PHP : then
 ```
   
