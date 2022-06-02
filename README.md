@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/29753/javascript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-php-web-development-flaticons-lineal-color-flat-icons.png" alt="php" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/366496/text-x-python.svg" alt="python" width="50" height="50"/> </a> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anybody&size=70&duration=5000&color=F70707&center=false&vCenter=true&width=1920&height=90&lines=Developer)](https://www.weblancer.net/users/sakhan/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anybody&size=70&duration=5000&color=F70707&center=false&vCenter=true&width=1920&height=110&lines=Developer)](https://www.weblancer.net/users/sakhan/)
 
 
 
