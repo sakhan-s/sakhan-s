@@ -13,7 +13,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/siradzhov/" target="blank"><img align="center" src="https://www.svgrepo.com/show/75820/linkedin.svg" alt="https://www.linkedin.com/in/sakhann/" height="50" width="50" /></a>
-<a href="https://fb.com/https://www.facebook.com/24ssg" target="blank"><img align="center" src="https://www.svgrepo.com/show/111203/facebook.svg" alt="https://www.facebook.com/24ssg" height="50" width="50" /></a>
+<a href="https://www.facebook.com/24ssg" target="blank"><img align="center" src="https://www.svgrepo.com/show/111203/facebook.svg" alt="https://www.facebook.com/24ssg" height="50" width="50" /></a>
 <a href="https://t.me/siradzhov" target="blank"><img align="center" src="https://www.svgrepo.com/show/349527/telegram.svg" alt="https://t.me/siradzhov" height="50" width="50" /></a>
  </p>
  
