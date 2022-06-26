@@ -10,7 +10,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anybody&size=45&duration=5000&color=F70707&center=false&vCenter=true&width=500&height=90&lines=Contact+with+me+:)](https://#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anybody&size=47&duration=5000&color=F70707&center=false&vCenter=true&width=500&height=110&lines=Contact+with+me+:)](https://#)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/siradzhov/" target="blank"><img align="center" src="https://www.svgrepo.com/show/75820/linkedin.svg" alt="https://www.linkedin.com/in/sakhann/" height="50" width="50" /></a>
