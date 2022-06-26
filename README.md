@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> JavaScript / PHP / Python Developer</p>
+<p align="left"> JavaScript / PHP Developer</p>
 
 
 
